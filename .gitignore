@@ -2,3 +2,7 @@ freespace.py
 **.psd
 **.jpg
 **.png
+**/__pycache__
+**/build
+**/dist
+*/main.spec
